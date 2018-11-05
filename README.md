@@ -1,4 +1,4 @@
-# 3DPositionalTracking
+# 3D Positional Tracking with Markers
 
 Program to calibrate camera and track cartesian distances to markers, with camera as the origin. Greatest accuracy achieved was within 1mm. The intended purpose was for use as a tracking module in an arthroscopic surgical training station.
 
