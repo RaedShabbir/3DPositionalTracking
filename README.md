@@ -7,8 +7,10 @@ To-Do:
 - [ ] Implement particle tracking to combat marker occlusion 
 - [ ] Implement dual camera setup to further combat occlusion.   
 
-![Alt text](https://github.com/RaedShabbir/3DPositionalTracking/blob/master/Result%20Pictures/calibration.PNG)
 Camera Calibration 
+![Alt text](https://github.com/RaedShabbir/3DPositionalTracking/blob/master/Result%20Pictures/calibration.PNG)
+
+Tracking Sample 
 ![Alt text](https://github.com/RaedShabbir/3DPositionalTracking/blob/master/Result%20Pictures/90degrees%2030%20cm%20away%202.PNG)
 
 Great thanks to George Lecakes for amazing series on marker tracking with OpenCV. Can be found here for those interested: https://www.youtube.com/watch?v=CfymgQwB_vE
