@@ -9,6 +9,6 @@ To-Do:
 
 ![Alt text]('Result Pictures/calibration.PNG')
 Camera Calibration 
-![Alt text](Result Pictures/90degrees 30 cm away 2.PNG)
+![Alt text](https://github.com/RaedShabbir/3DPositionalTracking/blob/master/Result%20Pictures/90degrees%2030%20cm%20away%202.PNG)
 
 Great thanks to George Lecakes for amazing series on marker tracking with OpenCV. Can be found here for those interested: https://www.youtube.com/watch?v=CfymgQwB_vE
