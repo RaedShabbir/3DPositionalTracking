@@ -1,11 +1,7 @@
 # 3D Positional Tracking with Markers
 
 Program to calibrate camera and track cartesian distances to markers, with camera as the origin. Greatest accuracy achieved was within 1mm. The intended purpose was for use as a tracking module in an arthroscopic surgical training station.
-
-To-Do: 
-- [ ] Implement final code in Python to test speed differences
-- [ ] Implement particle tracking to combat marker occlusion 
-- [ ] Implement dual camera setup to further combat occlusion.   
+ 
 
 Camera Calibration 
 ![Alt text](https://github.com/RaedShabbir/3DPositionalTracking/blob/master/Result%20Pictures/calibration.PNG)
